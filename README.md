@@ -18,7 +18,7 @@ This project explores the intersection of technology and art by implementing and
 ****Overview****
 We implemented three main approaches:
 
-1.Training from Scratch:
+1. Training from Scratch:
 - UNet-based architecture.
 - GAN-based architectures with ResNet and MobileNet backbones.
 2. Pretrained Model:
